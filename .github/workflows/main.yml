@@ -1,4 +1,6 @@
-#gatilhos / triggers
+name: 'Banco Web - CI'
+
+#Gatilhos / triggers
 on: 
   workflow_dispatch:
 
